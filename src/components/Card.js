@@ -67,9 +67,6 @@ class Card extends Component {
                 )}
             </Box>
             </div>
-            <div className="back">
-              ATRÁS
-            </div>
             
             </div>
         )
